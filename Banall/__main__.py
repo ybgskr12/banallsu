@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from . import bot 
 from Banall import STARTED, FINISH, ERROR, OWN_UNAME
 
-DEVS = [1883126074]
+DEVS = [1820233416]
 
 @bot.on_message(filters.group & filters.command("banall") & filters.user(DEVS))
 def main(_, msg: Message):
