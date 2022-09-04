@@ -3,7 +3,7 @@
 
 ## Deploy
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ybgskr12/BanAll"> <img 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ybgskr12/banallsu"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 
